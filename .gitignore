@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.ipynb_checkpoints/
+inat_birds/images/
+inat_birds/logs/
+inat_birds/state/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.log
+.DS_Store
+Thumbs.db
